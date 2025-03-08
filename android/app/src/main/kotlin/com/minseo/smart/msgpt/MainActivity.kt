@@ -1,0 +1,5 @@
+package com.minseo.smart.msgpt
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
