@@ -42,6 +42,11 @@ http: ^1.3.0
 flutter_dotenv: ^5.2.1
 ```
 
+# 📜 Plan
+
+✅ Code Executor
+
+
 
 
 
