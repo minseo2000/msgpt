@@ -104,7 +104,7 @@ class _MsgptScreenState extends State<MsgptScreen> {
     return Scaffold(
       backgroundColor: Colors.grey[200],
       appBar: AppBar(
-        title: Text('TEST'),
+        title: Text('MSGPT 😊'),
         centerTitle: true,
       ),
       body: Column(

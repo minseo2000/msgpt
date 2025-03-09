@@ -9,6 +9,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/msgpt/msgpt)
 ![GitHub last commit](https://img.shields.io/github/last-commit/msgpt/msgpt?color=red)
 
+<hr>
+
+![MSGPTgif.gif](readme%2FMSGPTgif.gif)
 
 # 🎥 Live Demo
 <hr>
